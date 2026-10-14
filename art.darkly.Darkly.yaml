@@ -107,7 +107,7 @@ modules:
     sources:
       - type: git
         url: https://github.com/darkly-art/darkly.git
-        commit: cd67d0d5317608e612c3d3f9b95fb812f74614b6
+        commit: 58e1df0bf884951c44d73251972f5f4360cf1975
         disable-shallow-clone: true
       - cargo-sources.json
       - generated-sources.json
